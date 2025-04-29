@@ -1,4 +1,5 @@
 # Act.Caixa
+![alt text](https://github.com/VicenzoMartinelli/act-caixa-desafio/blob/main/ACT%20-%20Consolida%C3%A7%C3%A3o.png?raw=true)
 
 ## Estrutura do projeto
 
