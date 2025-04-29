@@ -1,0 +1,117 @@
+﻿# Build Folders (you can keep bin if you'd rather ship the DLLs)
+bin/
+obj/
+out/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Node/NPM
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build results
+*.log
+*.tlog
+*.lastbuildstate
+
+# Azure Pipelines
+*.qa.psi
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+packages/
+# except build/, which is used as an MSBuild target.
+!packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+# project.lock.json
+# project.fragment.lock.json
+
+# Paket
+.paket/
+paket-files/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Entity Framework
+*.Backup*
+
+# StyleCop
+StyleCopReport.xml
+
+# DotCover
+*.dotCover
+
+# Coverlet
+coverage.*
+*.coverlet.*
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+coverage.opencover.xml
+
+# IIS Express
+/.vs/
+config/applicationhost.config
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# JetBrains Rider
+.idea/
+
+# Rider Unity plugin
+*.sln.DotSettings.user
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+Thumbs.db
+
+# Secrets (uncomment if you store secrets locally)
+/appsettings.Development.json
+secrets.json
